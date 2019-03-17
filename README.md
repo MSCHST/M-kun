@@ -1,9 +1,7 @@
-BotProtect
 
-Menggunakan script LineVodka dari MerKremont dan dicampur script LIN3-TCR dari alfathdirk
 
-Cara install sama seperti BotKick / Line Vodka / LIN3-TCR
- 
+M-kun
 
-Fungsi :
-Saat ada yang mencoba mengusir 1 member dari grup, bot otomatis akan mengusir Kicker tersebut dari grup
+Using LineVodka script from MerKremont and mix with LIN3-TCR script from alfathdirk
+
+Install same like BotKick / Line Vodka / LIN3-TCR  
